@@ -1,0 +1,38 @@
+body{
+    font-family: 'Rowdies', cursive;
+    background: url(bmw.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+h1{
+    font-size: 3rem;
+    color: #14388ec7;
+}
+
+
+.btn{
+    font-weight: 700 !important;
+    text-transform: uppercase;
+    border-radius: 300px !important;
+}
+
+.btn-primary{
+    background-color: #14388ec7 !important;
+    border-color: #14388ec7 !important;
+}
+
+.btn-primary:hover{
+    background-color: darkred !important;
+    border-color: darkred !important;
+    border-width: 4px !important;
+}
+
+.btn-xl{
+    padding: 1rem 2rem;
+}
+
+.buffer{
+    height: 16rem !important;
+}
